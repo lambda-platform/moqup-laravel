@@ -16,5 +16,10 @@
             "Moqup": "Lambda\\Moqup\\Moqup"
         }
     },
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lambda\\Moqup\\": "src"
+        }
+    }
 }
