@@ -1,5 +1,5 @@
 {
-    "name": "lambda/moqup",
+    "name": "lambda-platform/moqup",
     "description": "Moqup Page Builder",
     "type": "module",
     "license": "MIT",
